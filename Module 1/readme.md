@@ -14,6 +14,8 @@ Before Starting These Stuff I would Suggest You to Have a look at the resources 
 Resources
 https://doc.rust-lang.org/stable/book/ch00-00-introduction.html
 
+https://tourofrust.com/TOC_en.html
+
 https://www.youtube.com/watch?v=MsocPEZBd-M
 
 https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8

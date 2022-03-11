@@ -1,5 +1,5 @@
 fn main() {
-    let a = ???
+    let a = [2; 100];
 
     if a.len() >= 100 {
         println!("Wow, that's a big array!");
